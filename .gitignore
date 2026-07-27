@@ -1,0 +1,24 @@
+# Dependency directories
+backend/node_modules/
+
+# Local env file (contains secrets)
+backend/.env
+
+# Flutter / Dart related
+frontend/.dart_tool/
+frontend/.flutter-plugins-dependencies
+frontend/.pub-cache/
+frontend/.pub/
+frontend/build/
+frontend/android/app/debug
+frontend/android/app/profile
+frontend/android/app/release
+
+# System / IDE files
+.DS_Store
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+*.log
